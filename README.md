@@ -1,1 +1,10 @@
-# Pesquisa-e-Ordena-o
+# Estudos de Pesquisa e Ordenação
+![grafico - merge_sort](https://user-images.githubusercontent.com/39846852/163675403-3dafbf40-5e3f-46d3-a8e4-5be5d79a8dee.png)
+![grafico insertion sort pc](https://user-images.githubusercontent.com/39846852/163675404-e6e7a1b0-af03-47a7-b708-407dab7baf1e.png)
+![grafico insertion sort](https://user-images.githubusercontent.com/39846852/163675405-855b8eab-9c38-4dc4-9d5a-49f64c4777ce.png)
+![grafico pior caso](https://user-images.githubusercontent.com/39846852/163675406-453ad7b4-9ac7-46bf-85ba-39dc99d9d302.png)
+![grafico quick sort](https://user-images.githubusercontent.com/39846852/163675407-e6599db5-416b-44b1-9b65-5209827d3017.png)
+![grafico selection_sort 1](https://user-images.githubusercontent.com/39846852/163675408-bdc9510d-2fd7-4091-b443-e51112bc1497.png)
+![grafico selectionSort_piorCaso 2](https://user-images.githubusercontent.com/39846852/163675409-a9644ec9-7a68-431e-a2bb-290826a4ed29.png)
+![grafico selectionSort_piorCaso](https://user-images.githubusercontent.com/39846852/163675410-cbe8b19d-44ef-472d-b280-38d0599a2779.png)
+![grafico shell sort](https://user-images.githubusercontent.com/39846852/163675411-97d288a5-f22f-4872-a31e-be7a604221fb.png)
